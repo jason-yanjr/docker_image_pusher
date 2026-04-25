@@ -1,3 +1,3 @@
-ghcr.io/wg-easy/wg-easy:v15.2.2
+ghcr.io/wg-easy/wg-easy:15.2.2
 nginx:trixie-perl
 
