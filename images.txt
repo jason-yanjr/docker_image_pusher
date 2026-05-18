@@ -1,3 +1,4 @@
 ghcr.io/wg-easy/wg-easy:15.2.2
 nginx:trixie-perl
+meshcentral/meshcentral:master-mongodb-debian
 
